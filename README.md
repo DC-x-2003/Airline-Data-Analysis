@@ -1,4 +1,4 @@
-## Flight Fare Prediction Project
+### Flight Fare Prediction Project
 
 Introduction
 
